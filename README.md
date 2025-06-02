@@ -4,7 +4,7 @@ Pico-ROS, is an open-source, ultra-lightweight communications stack that leverag
 
 Additionally, Pico-ROS provides an open-source hardware standard with a standardized connector pin out to enable creation of other Pico-ROS hardware that is compatible between manufacturers. An open hardware example that can accept Arduino shields and Grove modules, is provided.
 
-To go to the [Software repository] (https://github.com/Pico-ROS/pico-ros)
+To go to the [Software repository](https://github.com/Pico-ROS/pico-ros)
 
-To go to the [Hardware repository] (https://github.com/Pico-ROS/Pico-ROS-hardware)
+To go to the [Hardware repository](https://github.com/Pico-ROS/Pico-ROS-hardware)
 
